@@ -1,4 +1,5 @@
 {
+  "resume": {
     "userId": "MEJ_00001257749",
     "appId": "362142527243593",
     "isFbUser": false,
@@ -88,4 +89,6 @@
         ]
     },
     "token": ".smRoVCU4nkQ0-MFGrYFm4kO4f47fwa287Z8LEpeN7OMMrpdoQpUOxZVBbn5CgV4VPudj7usbaj_ajcIQULGChhnHpfbNWT8dNdVNHbSTJAqGJ7-_G2kjIa5wg5rAR3bpdLieRcxukhQm8I-Wh9L2__JXsJCQ7-x82vKGNVXZAillV4LZVj8jaouR4YDCV318ol_ZTY_7UE39ORvBK7Fu3bHhGVKf4AYng3_kOAHqZto"
+}
+
 }
